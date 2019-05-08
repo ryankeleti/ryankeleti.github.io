@@ -24,7 +24,7 @@ div.box {
   margin-top:15px;
   padding-left:15px;
   padding-bottom:15px;
-  width:750px;
+  width:auto;
 	border:black 1px solid;
 }
 
