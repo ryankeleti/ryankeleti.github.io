@@ -28,3 +28,11 @@ div.box {
 	border:black 1px solid;
 }
 
+div.image {
+  float:right;
+  margin-top:10px;
+  margin-right:10px;
+  margin-bottom:10px;
+  border:black 1px solid;
+}
+
