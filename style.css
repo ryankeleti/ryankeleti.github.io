@@ -26,9 +26,7 @@ div.box {
   padding-bottom:15px;
   width:auto;
 	border:black 1px solid;
-}
-
-div.image {
+}.image {
   float:right;
   margin-top:10px;
   margin-right:10px;
