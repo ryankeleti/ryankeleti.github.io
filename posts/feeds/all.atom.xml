@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">posts: posts</title>
+ <link rel="self" href="https://ryankeleti.github.io/feeds/all.atom.xml" />
+ <link href="https://ryankeleti.github.io/index.html" />
+ <id>urn:https-ryankeleti-github-io:-index-html</id>
+ <updated>2019-06-18T09:46:01Z</updated>
+ <entry>
+  <title type="text">hi</title>
+  <link rel="alternate" href="https://ryankeleti.github.io/2019/06/hi.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:https-ryankeleti-github-io:-2019-06-hi-html</id>
+  <published>2019-06-18T09:46:01Z</published>
+  <updated>2019-06-18T09:46:01Z</updated>
+  <author>
+   <name>ryan keleti</name></author>
+  <content type="html">
+&lt;p&gt;hello!&lt;/p&gt;&lt;a href="https://ryankeleti.github.io/2019/06/hi.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
