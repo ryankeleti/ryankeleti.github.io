@@ -1,3 +1,1 @@
-https://ryankeleti.github.io/posts/2019/06/mathjax-test.html
-https://ryankeleti.github.io/posts/2019/06/learning-macros.html
 https://ryankeleti.github.io/posts/about.html
