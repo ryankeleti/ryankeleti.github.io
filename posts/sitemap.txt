@@ -1,2 +1,2 @@
-https://ryankeleti.github.io/posts//2019/06/hi.html
-https://ryankeleti.github.io/posts//about.html
+https://ryankeleti.github.io/posts/2019/06/hi.html
+https://ryankeleti.github.io/posts/about.html

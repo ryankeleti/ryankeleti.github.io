@@ -4,7 +4,8 @@
 ;; in frog/params.
 (define/contract (init)
   (-> any)
-  (current-scheme/host "https://ryankeleti.github.io/posts/")
+  (current-scheme/host "https://ryankeleti.github.io")
+  (current-uri-prefix "/posts")
   (current-title "posts")
   (current-author "ryan keleti"))
 
@@ -23,3 +24,4 @@
 (define/contract (clean)
   (-> any)
   (void))
+
