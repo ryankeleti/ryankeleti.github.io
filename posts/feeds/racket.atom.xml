@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">posts: Posts tagged 'racket'</title>
+ <link rel="self" href="https://ryankeleti.github.io/posts/feeds/racket.atom.xml" />
+ <link href="https://ryankeleti.github.io/posts/tags/racket.html" />
+ <id>urn:https-ryankeleti-github-io:-posts-tags-racket-html</id>
+ <updated>2019-06-18T14:38:52Z</updated>
+ <entry>
+  <title type="text">learning macros</title>
+  <link rel="alternate" href="https://ryankeleti.github.io/posts/2019/06/learning-macros.html?utm_source=racket&amp;utm_medium=Atom" />
+  <id>urn:https-ryankeleti-github-io:-posts-2019-06-learning-macros-html</id>
+  <published>2019-06-18T14:38:52Z</published>
+  <updated>2019-06-18T14:38:52Z</updated>
+  <author>
+   <name>ryan keleti</name></author>
+  <content type="html">&lt;a href="https://ryankeleti.github.io/posts/2019/06/learning-macros.html?utm_source=racket&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
