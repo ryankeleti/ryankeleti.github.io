@@ -6,7 +6,7 @@ div.box {
   padding-left:15px;
   padding-bottom:15px;
   width:auto;
-	border:white 1px solid;
+  border:white 1px solid;
 }
 div.image {
   float:right;
@@ -131,8 +131,8 @@ code {
   color:#999;
 }
 table,td,tr,th {
-	border-collapse:collapse;
-	border:1px solid grey;
+  border-collapse:collapse;
+  border:1px solid grey;
 }
 th {
   text-align:left;
